@@ -38,7 +38,7 @@
 
 .texto h2 {
     font-size: 36px;
-    color: #1a1a1a;
+    color: rgb(179, 116, 0);
     font-weight: 400;
     margin-bottom: 10px;
     font-family: 'Bebas Neue', serif;
@@ -46,7 +46,7 @@
 
 .texto h1 {
     font-size: 65px;;
-    color: rgb(0, 88, 84);
+    color: rgb(0, 64, 184);
     margin: 0;
 }
 
